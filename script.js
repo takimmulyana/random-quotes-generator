@@ -1,13 +1,13 @@
 // Array that stores a list of the quotes and their author
 const quotes = [
   { text: 'Hidup Seperti Larry', author: 'Firman' },
-  { text: 'Hiduplah Seperti Air, Mengalir Sampai Jauh', author: 'Ari' },
+  { text: 'Hiduplah Seperti Air, Mengalir Sampai Jauh', author: 'Amal' },
   { text: 'Jika kita tidak pandai, maka kita harus rajin', author: 'Aldi' },
-  { text: 'Tidak ada yang gagal, yang ada hanya menyerah untuk mencoba', author: 'Acil' },
-  { text: 'Kehidupan itu baik, ekspektasi kita yang buruk', author: 'Budi' },
-  { text: 'Realita kadang tidak sesuai dengan yang kita mau', author: 'Baron' },
-  { text: 'Menangislah, itu bisa membuat ketenangan', author: 'Wahyu' },
-  { text: 'Tidak ada alasan untuk mencoba, karena orang sukses terlahir dari orang gagal yang terus mencoba', author: 'Samuel' },
+  { text: 'Tidak ada yang gagal, yang ada hanya menyerah untuk mencoba', author: 'Arif' },
+  { text: 'Kehidupan itu baik, ekspektasi kita yang buruk', author: 'Alfi' },
+  { text: 'Realita kadang tidak sesuai dengan yang kita mau', author: 'Adit' },
+  { text: 'Menangislah, itu bisa membuat ketenangan', author: 'Budi' },
+  { text: 'Tidak ada alasan untuk mencoba, karena orang sukses terlahir dari orang gagal yang terus mencoba', author: 'Wahyu' },
 ];
 
 // Get HTML elements by their id
